@@ -1,15 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Library.Common;
+using System;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace lab2
+
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
+            var service = new InMemoryCrudServiceAsync<Bus>("buses.json");
+
+            var tasks = Enumerable.Range(0, 1000)
+                .Select(async _ =>
+                {
+                    var bus = Bus.CreateNew();
+                    await service.CreateAsync(bus);
+                });
+
+            await Task.WhenAll(tasks);
+
+            var allBuses = await service.ReadAllAsync();
+            var maxMileage = allBuses.Max(b => b.Mileage);
+            var minMileage = allBuses.Min(b => b.Mileage);
+            var avgMileage = allBuses.Average(b => b.Mileage);
+
+            Console.WriteLine($"MAX mileage: {maxMileage:F2}");
+            Console.WriteLine($"MIN mileage: {minMileage:F2}");
+            Console.WriteLine($"AVG mileage: {avgMileage:F2}");
+
+            var result = await service.SaveAsync();
+            Console.WriteLine(result ? "Дані збережено!" : "Помилка збереження.");
         }
     }
 }

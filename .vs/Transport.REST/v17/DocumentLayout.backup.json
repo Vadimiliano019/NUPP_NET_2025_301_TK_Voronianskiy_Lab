@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 817,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -63,19 +67,21 @@
               "RelativeToolTip": "Controllers\\BusesController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:06:23.427Z"
+              "WhenOpened": "2025-05-17T13:06:23.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Transport.REST.csproj",
+              "Title": "Transport.REST",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Transport.REST.csproj",
               "RelativeDocumentMoniker": "Transport.REST.csproj",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Transport.REST.csproj",
               "RelativeToolTip": "Transport.REST.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T13:06:02.189Z"
+              "WhenOpened": "2025-05-17T13:06:02.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +93,8 @@
               "RelativeToolTip": "Services\\BusService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:05:55.014Z"
+              "WhenOpened": "2025-05-17T13:05:55.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +106,8 @@
               "RelativeToolTip": "Services\\ICrudServiceAsync.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:05:38.069Z"
+              "WhenOpened": "2025-05-17T13:05:38.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +119,8 @@
               "RelativeToolTip": "Models\\BusCreateModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:05:20.997Z"
+              "WhenOpened": "2025-05-17T13:05:20.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,17 +132,8 @@
               "RelativeToolTip": "Models\\BusModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:05:04.828Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 817,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-05-17T13:05:04.828Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -151,7 +151,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

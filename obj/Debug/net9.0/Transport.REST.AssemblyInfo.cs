@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Transport.REST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a9e8a84c7f2d3940d48bc71d850f92ee5e9445a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91690cfdb4ecfa5bc9c79ebaff286d79cf878da3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Transport.REST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Transport.REST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

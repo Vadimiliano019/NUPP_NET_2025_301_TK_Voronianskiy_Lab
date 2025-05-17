@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\transport.rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:transport.rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\services\\icrudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:services\\icrudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\models\\buscreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:models\\buscreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|c:\\users\\user\\source\\repos\\vadimiliano019\\nupp_net_2025_301_tk_voronianskiy_lab\\lab4\\transport.rest\\transport.rest\\models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB302F76-48E1-98F4-BED8-94E80CFEF4CE}|Transport.REST.csproj|solutionrelative:models\\busmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 817,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:06:34.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Controllers\\BusesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BusesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Controllers\\BusesController.cs",
+              "RelativeToolTip": "Controllers\\BusesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:06:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transport.REST",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Transport.REST.csproj",
+              "RelativeDocumentMoniker": "Transport.REST.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Transport.REST.csproj",
+              "RelativeToolTip": "Transport.REST.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T13:06:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Services\\BusService.cs",
+              "RelativeDocumentMoniker": "Services\\BusService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Services\\BusService.cs",
+              "RelativeToolTip": "Services\\BusService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:05:55.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICrudServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Services\\ICrudServiceAsync.cs",
+              "RelativeDocumentMoniker": "Services\\ICrudServiceAsync.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Services\\ICrudServiceAsync.cs",
+              "RelativeToolTip": "Services\\ICrudServiceAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:05:38.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Models\\BusCreateModel.cs",
+              "RelativeDocumentMoniker": "Models\\BusCreateModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Models\\BusCreateModel.cs",
+              "RelativeToolTip": "Models\\BusCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:05:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Models\\BusModel.cs",
+              "RelativeDocumentMoniker": "Models\\BusModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Vadimiliano019\\NUPP_NET_2025_301_TK_Voronianskiy_Lab\\lab4\\Transport.REST\\Transport.REST\\Models\\BusModel.cs",
+              "RelativeToolTip": "Models\\BusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:05:04.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 817,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

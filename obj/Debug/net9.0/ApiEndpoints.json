@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "BusStation.REST.Controllers.BusesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Buses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusStation.REST.Controllers.BusesController",
+    "Method": "Create",
+    "RelativePath": "api/Buses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "busCreate",
+        "Type": "BusStation.REST.Models.BusCreateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusStation.REST.Controllers.BusesController",
+    "Method": "Get",
+    "RelativePath": "api/Buses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusStation.REST.Controllers.BusesController",
+    "Method": "Update",
+    "RelativePath": "api/Buses/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "busUpdate",
+        "Type": "BusStation.REST.Models.BusModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusStation.REST.Controllers.BusesController",
+    "Method": "Delete",
+    "RelativePath": "api/Buses/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
